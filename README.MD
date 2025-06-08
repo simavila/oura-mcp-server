@@ -2,6 +2,10 @@
 
 An mcp server that enables Claude desktop to access and analyze your Oura Ring data.
 
+## Background
+
+I tried looking for existing Oura libraries to analyze my data but couldn't find any good options, so I decided to create this MCP server to bridge that gap.
+
 ## Features
 
 - Access sleep data and trends
@@ -87,6 +91,8 @@ Once configured, you can ask Claude to analyze and plot your data.
 - "Show me my sleep data for the past week"
 - "Analyze my sleep patterns this month"
 - "Compare my activity levels between last week and this week"
+
+Claude Desktop is great for running basic analysis and getting quick insights from your Oura data. However, for more advanced statistical analysis, machine learning, or complex data science tasks, I recommend exporting your data as a CSV and using [julius.ai](https://julius.ai) to analyze it. Julius.ai provides powerful data analysis capabilities that can handle more sophisticated analytical workflows.
 
 ## Privacy & Security
 
