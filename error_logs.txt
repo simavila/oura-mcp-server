@@ -1,5 +1,0 @@
-# error logs
-
-this file can be used to paste error logs from claude desktop for troubleshooting.
-
-the server is working correctly - this file is just a placeholder for future debugging if needed.
