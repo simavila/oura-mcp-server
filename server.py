@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""MCP server for Oura Ring data access - Version 3 with proper initialization."""
+"""MCP server for Oura Ring data access on Claude Desktop."""
 
 import asyncio
 import os
