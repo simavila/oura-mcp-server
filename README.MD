@@ -1,14 +1,14 @@
-# Oura MCP Server
+# Oura mcp Server
 
-An MCP (Model Context Protocol) server that enables Claude Desktop to access and analyze your Oura Ring data.
+An mcp server that enables Claude desktop to access and analyze your Oura Ring data.
 
 ## Features
 
-- 🛌 Access sleep data and trends
-- 💪 View activity metrics
-- 🎯 Check readiness scores
-- 📊 Custom date range queries
-- ✅ Connection status checking
+- Access sleep data and trends
+- View activity metrics
+- Check readiness scores
+- Custom date range queries
+- Connection status checking
 
 ## Prerequisites
 
@@ -81,11 +81,10 @@ Edit `%APPDATA%\Claude\claude_desktop_config.json` with the same configuration.
 
 ## Usage
 
-Once configured, you can ask Claude questions like:
+Once configured, you can ask Claude to analyze and plot your data.
 
 - "How did I sleep last night?"
 - "Show me my sleep data for the past week"
-- "What's my readiness score today?"
 - "Analyze my sleep patterns this month"
 - "Compare my activity levels between last week and this week"
 
@@ -98,7 +97,7 @@ Once configured, you can ask Claude questions like:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome and appreciated.
 
 ## License
 
