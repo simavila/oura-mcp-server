@@ -93,17 +93,6 @@ Once configured, you can ask Claude to analyze and plot your data.
 - "Compare my activity levels between last week and this week"
 
 
-![sleep debt analysis showing current debt of 33.7 hours with trend chart](sleep-debt-analysis.png)
-
-
-![sleep duration trends showing 6.9 hour average with consistency metrics](sleep-duration-trends.png)
-
-
-![stacked bar chart showing deep sleep, rem sleep, and light sleep breakdown by date](sleep-stage-breakdown.png)
-
-
-![combination chart showing daily steps and active calories over time](daily-activity-chart.png)
-
 Claude Desktop is great for running basic analysis and getting quick insights from your Oura data. However, for more advanced statistical analysis, machine learning, or complex data science tasks, I recommend exporting your data as a CSV and using [julius.ai](https://julius.ai) to analyze it. Julius.ai provides powerful data analysis capabilities that can handle more sophisticated analytical workflows.
 
 ## Privacy & Security
